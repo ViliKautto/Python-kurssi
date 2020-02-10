@@ -1,0 +1,2 @@
+# Python-kurssi
+Johdatus ohjelmointtin
